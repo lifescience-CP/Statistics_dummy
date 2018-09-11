@@ -1,0 +1,24 @@
+nitty-gritty
+bottom-line information
+make decision with confidence
+Once data are collected, the next step is to summarize it all to get a handle on the big picture.
+Descriptive statistics are numbers that describe a data set in terms of its important features.
+There are two main types of data: categorical (or qualitative) data and numerical (or quantitative data).
+Categorical data record qualities or characteristics about the individual
+Numerical data record measurements or counts regarding each individual, which may include weight, age, height, or
+time to take an exam; counts may include number of pets, or the number of red lights you hit on your way to work.
+
+The important difference between the two is that with categorical data, any numbers involved do not have real numerical meaning
+(for example, using 1 for male and 2 for female), while all numerical data represents actual numbers for which math operations make sense
+
+A third type of data, ordinal data, falls in between, where data appear in categories, but the categories have a meaningful
+order, such as ratings from 1 to 5, or class ranks of freshman through senior.
+
+Categorical data are typically summarized by reporting either the number of individuals falling into each category, or the
+percentage of individuals falling into each category.
+
+The most common way to summarize a numerical data set is to describe where the center is. what is the center tendency?
+
+the mean (or average) and the median  # if mean > median, so what, if mean < median, so what
+
+high outliers drive the average upward,Similarly, while outliers that are extremely low tend to drive the average downward.
